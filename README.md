@@ -1,3 +1,3 @@
-RISHIN
-CSE-D
-VML24CS194
+# Hi,I'm Rishin
+
+
